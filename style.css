@@ -1,0 +1,30 @@
+#gameContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#keyImage{
+    width: 150px;
+    height: 150;
+}
+
+#statusMessage {
+    text-align: center;
+    font-size: 24;
+    margin-top: 20px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: white;
+}
+
+body {
+    background-color: gray;
+}
+
+#correctCounter {
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    margin-top: 10px;
+}
